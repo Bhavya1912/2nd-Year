@@ -1,10 +1,8 @@
-// CPP program to illustrate
-// std :: set_union
-#include <algorithm> // std::set_union, std::sort
-#include <iostream> // std::cout
-#include <vector> // std::vector
+#include <algorithm> 
+#include <iostream> 
+#include <vector> 
 
-// Driver code
+
 int main()
 {
 	int first[] = { 5, 10, 15, 20, 25 };
